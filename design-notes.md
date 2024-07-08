@@ -6,7 +6,7 @@
 * CLAS locals_imp and locals_def are merged to one file, as abaplint points to the definitions which are skipped
 * top level await possible via `.mjs` file extension
 * No runtime creation of artifacts, requires rebuild
-* Single threaded, as its running in node
+* Single threaded, as its running in nodedwadawdawdawdaw
 * Database table buffering settings ignored, everything is always in the db
 * No XSLT or Simple Transformations
 
